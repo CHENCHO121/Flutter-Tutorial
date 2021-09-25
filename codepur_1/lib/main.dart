@@ -20,9 +20,9 @@ class MyApp extends StatelessWidget {
         primaryTextTheme: GoogleFonts.latoTextTheme(),
       ),
       darkTheme: ThemeData(brightness: Brightness.light),
-      //debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: false,
 
-      initialRoute: "/",
+      initialRoute: MyRoute.HomeRoute,
 
       routes: {
         "/": (context) => LoginPage(),
