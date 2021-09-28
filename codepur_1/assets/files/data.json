@@ -45,6 +45,51 @@
             "color": "#F18734",
             "image": "https://m.media-amazon.com/images/I/51nRWPpqExL._AC_UY218_.jpg"
 
+        },
+        {
+            "id": 6,
+            "name": "Iphone Pro 11",
+            "desc":"Apple Iphone 11th generartion",
+            "price": 999,
+            "color": "#9E776F",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51I7B68Vd-L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+
+        },
+        {
+            "id": 7,
+            "name": "Iphone Pro 12 Black",
+            "desc":"Defender Pro Series Case for Apple iPhone 12 & iPhone 12 Pro - Black",
+            "price": 5000,
+            "color": "#644D48",
+            "image": "https://m.media-amazon.com/images/I/71FmxUa+GsL._AC_UY218_.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Xiaomi Redmi Note 10 Pro",
+            "desc":"Xiaomi Redmi Note 10 Pro | 128GB 6GB RAM",
+            "price": 16500,
+            "color": "#B4AAA8",
+            "image": "https://m.media-amazon.com/images/I/5114EtDzdkS._AC_UY218_.jpg"
+
+        },
+        {
+            "id": 9,
+            "name": "Samsung Galaxy Note 20 Ultra",
+            "desc":"Samsung Galaxy Note 20 Ultra 5G Factory Unlocked Android Cell Phone 128GB US Version",
+            "price": 68800,
+            "color": "#D67224",
+            "image": "https://m.media-amazon.com/images/I/81AT+Flc+EL._AC_UY218_.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Original X50 Pro+ Plus",
+            "desc":"Original X50 Pro+ Plus(V I V O) 5G Mobile 12G+256GB Snapdragon 865 6.56inch 120Hz",
+            "price": 19000,
+            "color": "#F18734",
+            "image": "https://m.media-amazon.com/images/I/51nRWPpqExL._AC_UY218_.jpg"
+
         }
         
 
