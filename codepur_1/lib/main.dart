@@ -1,4 +1,5 @@
 import 'package:codepur_1/models/catalog.dart';
+import 'package:codepur_1/pages/cart_page.dart';
 import 'package:codepur_1/pages/home_detail_page.dart';
 import 'package:codepur_1/pages/home_page.dart';
 import 'package:codepur_1/pages/login_page.dart';
@@ -27,6 +28,7 @@ class MyApp extends StatelessWidget {
         "/": (context) => LoginPage(),
         MyRoute.HomeRoute: (context) => HomePage(),
         MyRoute.LoginRoute: (context) => LoginPage(),
+        MyRoute.CartRoute: (context) => CartPage(),
         //MyRoute.HomeDetailRoute:(context)=>HomeDetailPage(),
       },
     );
